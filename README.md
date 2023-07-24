@@ -20,8 +20,11 @@ Press 'r' to reset the simulation and generate a new random initial configuratio
 You can customize the simulation by modifying the following variables in the main.lua file:
 
 cellSize: Adjust the size of each cell in pixels to change the level of detail and appearance of the simulation.
+
 gridWidth, gridHeight: Change the dimensions of the grid to control the number of cells in the simulation.
+
 grid[x][y]: Modify the initializeGrid() function to set specific patterns or initial configurations for the cells.
+
 # License
 This project is licensed under the MIT License.
 # Acknowledgments
