@@ -10,10 +10,10 @@ To run the Conway's Game of Life simulation, you will need the Love2D framework 
 
 Once you have Love2D installed, follow these steps to run the simulation:
 
-2. Clone this repository or download the code as a ZIP file.
-2. Extract the contents of the ZIP file (if applicable).
-2. Navigate to the project directory using the terminal or file explorer.
-2. Run the game by dragging the project folder onto the Love2D executable or use the command love . in the terminal.
+1. Clone this repository or download the code as a ZIP file.
+1. Extract the contents of the ZIP file (if applicable).
+1. Navigate to the project directory using the terminal or file explorer.
+1. Run the game by dragging the project folder onto the Love2D executable or use the command love . in the terminal.
 # Controls
 Press 'r' to reset the simulation and generate a new random initial configuration for the cells.
 # Customization
